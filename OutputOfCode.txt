@@ -1,0 +1,1 @@
+Output of following code: word = “abcdefghij”print word[:3] + word[3:]So Answer is  abcdefghij   
